@@ -1,0 +1,25 @@
+C:\Users\Andrew\documents\visual studio 2012\Projects\CMAutoClicker\CMAutoClicker\bin\Release\CMAutoClicker.exe.config
+C:\Users\Andrew\documents\visual studio 2012\Projects\CMAutoClicker\CMAutoClicker\bin\Release\CMAutoClicker.exe
+C:\Users\Andrew\documents\visual studio 2012\Projects\CMAutoClicker\CMAutoClicker\bin\Release\CMAutoClicker.pdb
+C:\Users\Andrew\documents\visual studio 2012\Projects\CMAutoClicker\CMAutoClicker\obj\Release\MainWindow.baml
+C:\Users\Andrew\documents\visual studio 2012\Projects\CMAutoClicker\CMAutoClicker\obj\Release\MainWindow.g.cs
+C:\Users\Andrew\documents\visual studio 2012\Projects\CMAutoClicker\CMAutoClicker\obj\Release\App.g.cs
+C:\Users\Andrew\documents\visual studio 2012\Projects\CMAutoClicker\CMAutoClicker\obj\Release\CMAutoClicker_MarkupCompile.cache
+C:\Users\Andrew\documents\visual studio 2012\Projects\CMAutoClicker\CMAutoClicker\obj\Release\CMAutoClicker.g.resources
+C:\Users\Andrew\documents\visual studio 2012\Projects\CMAutoClicker\CMAutoClicker\obj\Release\CMAutoClicker.Properties.Resources.resources
+C:\Users\Andrew\documents\visual studio 2012\Projects\CMAutoClicker\CMAutoClicker\obj\Release\CMAutoClicker.csproj.GenerateResource.Cache
+C:\Users\Andrew\documents\visual studio 2012\Projects\CMAutoClicker\CMAutoClicker\obj\Release\CMAutoClicker.exe
+C:\Users\Andrew\documents\visual studio 2012\Projects\CMAutoClicker\CMAutoClicker\obj\Release\CMAutoClicker.pdb
+C:\svn\CMAutoClicker\CMAutoClicker\bin\Release\CMAutoClicker.exe.config
+C:\svn\CMAutoClicker\CMAutoClicker\obj\Release\CMAutoClicker.exe
+C:\svn\CMAutoClicker\CMAutoClicker\obj\Release\CMAutoClicker.pdb
+C:\svn\CMAutoClicker\CMAutoClicker\bin\Release\CMAutoClicker.exe
+C:\svn\CMAutoClicker\CMAutoClicker\bin\Release\CMAutoClicker.pdb
+C:\svn\CMAutoClicker\CMAutoClicker\obj\Release\CMAutoClicker.csprojResolveAssemblyReference.cache
+C:\svn\CMAutoClicker\CMAutoClicker\obj\Release\MainWindow.baml
+C:\svn\CMAutoClicker\CMAutoClicker\obj\Release\MainWindow.g.cs
+C:\svn\CMAutoClicker\CMAutoClicker\obj\Release\App.g.cs
+C:\svn\CMAutoClicker\CMAutoClicker\obj\Release\CMAutoClicker_MarkupCompile.cache
+C:\svn\CMAutoClicker\CMAutoClicker\obj\Release\CMAutoClicker.g.resources
+C:\svn\CMAutoClicker\CMAutoClicker\obj\Release\CMAutoClicker.Properties.Resources.resources
+C:\svn\CMAutoClicker\CMAutoClicker\obj\Release\CMAutoClicker.csproj.GenerateResource.Cache
